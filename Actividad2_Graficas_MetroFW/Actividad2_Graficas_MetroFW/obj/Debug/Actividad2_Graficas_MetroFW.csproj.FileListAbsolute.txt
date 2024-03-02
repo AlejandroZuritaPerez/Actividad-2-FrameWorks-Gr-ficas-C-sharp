@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\bin\Debug\Actividad2_Graficas_MetroFW.exe.config
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\bin\Debug\Actividad2_Graficas_MetroFW.exe
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\bin\Debug\Actividad2_Graficas_MetroFW.pdb
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\bin\Debug\MetroFramework.Design.dll
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\bin\Debug\MetroFramework.dll
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.Form1.resources
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.Properties.Resources.resources
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.csproj.GenerateResource.cache
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.csproj.CopyComplete
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.exe
+C:\Users\x\source\repos\Actividad2_Graficas_MetroFW\Actividad2_Graficas_MetroFW\obj\Debug\Actividad2_Graficas_MetroFW.pdb
